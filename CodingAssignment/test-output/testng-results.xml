@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-12-03T19:01:40 CST" name="Default suite" finished-at="2022-12-03T19:01:45 CST" duration-ms="4901">
+  <suite started-at="2022-12-04T10:45:25 CST" name="Default suite" finished-at="2022-12-04T10:45:43 CST" duration-ms="18108">
     <groups>
     </groups>
-    <test started-at="2022-12-03T19:01:40 CST" name="Default test" finished-at="2022-12-03T19:01:45 CST" duration-ms="4901">
-      <class name="Assignment2.CodingAssignment.CodingAssignment2">
-        <test-method signature="printMultiplicationTable()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment2@6fdbe764]" started-at="2022-12-03T19:01:40 CST" name="printMultiplicationTable" finished-at="2022-12-03T19:01:45 CST" duration-ms="4768" status="PASS">
+    <test started-at="2022-12-04T10:45:25 CST" name="Default test" finished-at="2022-12-04T10:45:43 CST" duration-ms="18108">
+      <class name="Assignment2.CodingAssignment.CodingAssignment3">
+        <test-method signature="findFactorial()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment3@644baf4a]" started-at="2022-12-04T10:45:25 CST" name="findFactorial" finished-at="2022-12-04T10:45:36 CST" duration-ms="10891" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- printMultiplicationTable -->
-        <test-method signature="printNumbers()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment2@6fdbe764]" started-at="2022-12-03T19:01:45 CST" name="printNumbers" finished-at="2022-12-03T19:01:45 CST" duration-ms="3" status="PASS">
+        </test-method> <!-- findFactorial -->
+        <test-method signature="printNumber()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment3@644baf4a]" started-at="2022-12-04T10:45:36 CST" name="printNumber" finished-at="2022-12-04T10:45:39 CST" duration-ms="3310" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- printNumbers -->
-      </class> <!-- Assignment2.CodingAssignment.CodingAssignment2 -->
+        </test-method> <!-- printNumber -->
+        <test-method signature="printPrimeNumbers()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment3@644baf4a]" started-at="2022-12-04T10:45:39 CST" name="printPrimeNumbers" finished-at="2022-12-04T10:45:43 CST" duration-ms="3773" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printPrimeNumbers -->
+        <test-method signature="printStatements()[pri:0, instance:Assignment2.CodingAssignment.CodingAssignment3@644baf4a]" started-at="2022-12-04T10:45:43 CST" name="printStatements" finished-at="2022-12-04T10:45:43 CST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printStatements -->
+      </class> <!-- Assignment2.CodingAssignment.CodingAssignment3 -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
