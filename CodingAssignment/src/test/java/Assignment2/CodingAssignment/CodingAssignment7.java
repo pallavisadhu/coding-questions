@@ -22,7 +22,7 @@ public class CodingAssignment7 {
 			System.out.println("No.of times " + day +" occurs in that month:"+res);
 
 		}
-		
+		s.close();
 	}
 
 }
